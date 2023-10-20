@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['Trái tim ta', 'là', 'chim sa mạc', 'đã thấy', 'bầu trời', 'trong', 'mắt em,', 'là','chiếc nôi', 'của', 'sớm mai êm', 'mắt em', 'là', 'xứ sở', 'của', 'trời đêm', 'sao sáng']
+  let texts = ['Chúc chị em', 'ngày Quốc Tế Phụ Nữ', '20 / 10', 'ngập tràn', 'hạnh phúc', 'Chúc', 'các chị em,', 'mau chóng','có', 'người', 'yêu', '100 năm']
 
   let canvas,
     ctx,
